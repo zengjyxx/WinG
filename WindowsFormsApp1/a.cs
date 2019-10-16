@@ -12,5 +12,9 @@ namespace WindowsFormsApp1
         { }
         public void d2dd()
         { }
+        public void ddd333()
+        { }
+        public void dddd44()
+        { }
     }
 }
