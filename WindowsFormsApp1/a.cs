@@ -8,5 +8,7 @@ namespace WindowsFormsApp1
 {
     class a
     {
+        public void ddd()
+        { }
     }
 }
