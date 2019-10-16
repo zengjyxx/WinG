@@ -8,5 +8,7 @@ namespace WindowsFormsApp1
 {
     class Class100
     {
+        public void A2()
+        { }
     }
 }
