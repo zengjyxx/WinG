@@ -71,6 +71,7 @@
     <Compile Include="y7.cs" />
     <Compile Include="y8.cs" />
     <Compile Include="z1.cs" />
+	<Compile Include="z2.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
