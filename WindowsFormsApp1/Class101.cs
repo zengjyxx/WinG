@@ -12,5 +12,9 @@ namespace WindowsFormsApp1
         { }
         public void z3()
         { }
+        public void master2()
+        { }
+        public void z32()
+        { }
     }
 }
