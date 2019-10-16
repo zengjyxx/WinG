@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="b.cs" />
     <Compile Include="Class100.cs" />
     <Compile Include="Class101.cs" />
     <Compile Include="Class5.cs" />
