@@ -67,6 +67,7 @@
     <Compile Include="x2.cs" />
     <Compile Include="x3.cs" />
     <Compile Include="y5.cs" />
+    <Compile Include="y6.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
