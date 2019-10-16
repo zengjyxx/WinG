@@ -10,5 +10,7 @@ namespace WindowsFormsApp1
     {
         public void A1()
         { }
+        public void A2()
+        { }
     }
 }
