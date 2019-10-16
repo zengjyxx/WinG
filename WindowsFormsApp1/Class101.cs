@@ -8,5 +8,7 @@ namespace WindowsFormsApp1
 {
     class Class101
     {
+        public void master()
+        { }
     }
 }
