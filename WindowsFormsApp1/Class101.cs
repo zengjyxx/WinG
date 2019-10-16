@@ -10,5 +10,7 @@ namespace WindowsFormsApp1
     {
         public void master()
         { }
+        public void z3()
+        { }
     }
 }
